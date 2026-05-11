@@ -1,0 +1,20 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Md4mac Updates</title>
+    <link>https://github.com/jonaniano/md4mac-releases</link>
+    <description>Updates for Md4mac.</description>
+    <language>en</language>
+    <item>
+      <title>Version 0.1.0</title>
+      <pubDate>Sat, 09 May 2026 02:15:08 +0000</pubDate>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/jonaniano/md4mac-releases/releases/download/v0.1.0/Md4mac-0.1.0.dmg"
+        sparkle:version="1"
+        sparkle:shortVersionString="0.1.0"
+        sparkle:edSignature="Zkov91MlXs2TTYVVQjX4QnUF5D3oTdq2TG06xiNciBOopXm9qgQyjSUKbv1laCDpJt0mwTgJB/tvLxl/t5pqCw==" length="5104016"
+        type="application/octet-stream" />
+    </item>
+  </channel>
+</rss>
