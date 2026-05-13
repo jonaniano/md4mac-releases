@@ -6,14 +6,14 @@
     <description>Updates for Md4mac.</description>
     <language>en</language>
     <item>
-      <title>Version 0.1.1</title>
-      <pubDate>Mon, 11 May 2026 11:32:27 -0700</pubDate>
+      <title>Version 0.1.2</title>
+      <pubDate>Tue, 12 May 2026 20:31:36 -0700</pubDate>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <enclosure
-        url="https://github.com/jonaniano/md4mac-releases/releases/download/v0.1.1/Md4mac-0.1.1.dmg"
-        sparkle:version="2"
-        sparkle:shortVersionString="0.1.1"
-        sparkle:edSignature="lMUlmiLi0jjS6X5TIB5J65L3HyB3mRcx+OgE/IQqPDN7F572IGZZ4JBrJjJjo4rvAhQ54qX5ruvRRLYkKCmYDw==" length="5145575"
+        url="https://github.com/jonaniano/md4mac-releases/releases/download/v0.1.2/Md4mac-0.1.2.dmg"
+        sparkle:version="3"
+        sparkle:shortVersionString="0.1.2"
+        sparkle:edSignature="J9ZRbEhgJEDmgHvkqnWYAbcylmqaH9hWAk9jU5UMluegb8lomD40+5XlyD2vPQOpLI2VLWCIZJe6h9RqzZiXBg==" length="5302849"
         type="application/octet-stream" />
     </item>
   </channel>
