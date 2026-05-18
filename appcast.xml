@@ -7,13 +7,13 @@
     <language>en</language>
     <item>
       <title>Version 0.7.83</title>
-      <pubDate>Sat, 16 May 2026 15:02:40 -0700</pubDate>
+      <pubDate>Sun, 17 May 2026 22:58:51 -0700</pubDate>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <enclosure
         url="https://github.com/jonaniano/md4mac-releases/releases/download/v0.7.83/Md4mac-0.7.83.dmg"
         sparkle:version="83"
         sparkle:shortVersionString="0.7.83"
-        sparkle:edSignature="hMzQzGY5f44fX3JWZXbKgbHdA2VVLRiw6f2X0bfz35DFPrNFJatSbs5CHLa3g9uPdVTn6wRlpVcnyJaYR+9SCg==" length="10991558"
+        sparkle:edSignature="uhFlCbAXHsYze8TjHfNZoHjQnZTSezdPVpGtBikuNE0WWCDBsGg7L9x2ls4HltAqHtiT2W1EtmKehPUzRvjUAg==" length="11224580"
         type="application/octet-stream" />
     </item>
   </channel>
